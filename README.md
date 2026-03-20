@@ -69,7 +69,7 @@ Models were evaluated based on:
 
 
 
-## 📈 Results
+##  Results
 
 - Random Forest provided stable and interpretable results  
 - Neural Network improved classification capability with complex patterns  
@@ -77,7 +77,7 @@ Models were evaluated based on:
 
 
 
-## 🔍 Key Insights
+##  Key Insights
 
 - Audio features like MFCC play a crucial role in speech classification  
 - Machine learning can assist in early detection of speech disorders  
@@ -86,7 +86,7 @@ Models were evaluated based on:
 
 
 
-## 💡 Real-World Impact
+##  Real-World Impact
 
 This system can help:
 
@@ -97,7 +97,7 @@ This system can help:
 
 
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Deploy as a mobile application  
 - Integrate real-time voice input  
